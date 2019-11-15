@@ -3,4 +3,5 @@ A simple app to learn mongo, express and mongoose
 
 ## Instructions
 1. You'll need a mongodb called ```myNewDatabase``` (yes I'm original) with a table called ```artists``` with ```name``` ```genre``` ```bio``` ```photo``` fields. 
-2. ```npm install``` and ```npm start```
+2. run ```npm install``` to install node modules
+3. run ```npm start``` to start on localhost:3000
