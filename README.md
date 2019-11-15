@@ -1,5 +1,5 @@
 # mongo_express_mongoose_app
-A simple app to learn mongo, express and mongoose
+A simple app to learn mongo, express and mongoose, with ejs templating
 
 ## Instructions
 1. You'll need a mongodb called ```myNewDatabase``` (yes I'm original) with a table called ```artists``` with ```name``` ```genre``` ```bio``` ```photo``` fields. 
